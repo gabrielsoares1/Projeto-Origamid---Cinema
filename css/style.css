@@ -12,6 +12,13 @@ body {
 
 a {
     text-decoration: none;
+    display: inline-block;
+    background: #febe01;
+    color: #332200;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
 }
 
 h2 {
